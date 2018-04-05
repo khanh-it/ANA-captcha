@@ -1,0 +1,7 @@
+/.history
+/data/*.jpg
+/data/**/*.jpg
+/pyocr/data/*.jpg
+/pyocr/data/**/*.jpg
+/pyocr/data/*.bmp
+/pyocr/data/**/*.bmp
